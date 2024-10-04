@@ -1,5 +1,5 @@
 
-# Monthly Finances Dashboard
+# Personal Finances Dashboard
 
 
 ## Problem Statement

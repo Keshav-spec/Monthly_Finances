@@ -2,7 +2,7 @@
 # Personal Finances Dashboard
 
 
-## Problem Statement 
+## Problem Statement   
 
 This dashboard helps individuals understand their monthly financial habits better. It provides insights into income, expenses, savings, and debts across different months. Through these analyses, users can identify areas where they might overspend, track their savings growth, and monitor overall financial health.
 
